@@ -17,13 +17,13 @@ You will also see any lint errors in the console.
 ## Login Page
 
   1. Insert your email and password.
-  2. The page will refresh once the login is succesful.
+  2. The page will reload once the login is succesful.
   3. To register, click on the sign up link.
   
 ## Register Page
 
   1. Fill in the details.
-  2. The page will refresh once the register is succesful.
+  2. The page will reload once the register is succesful.
   3. To Login, click on the sign in link.
   
  ## Addition
