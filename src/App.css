@@ -1,0 +1,14 @@
+.Login{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LoginBox{
+    width: 400px;
+    height: 400px;
+    margin-top: 8rem;
+    background-color:rgba(230, 204, 204, 0);
+    padding: 30px;
+}
